@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>right-to-bracket-solid.svg</file>
+        <file>user-plus-solid.svg</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>cine.jpg</file>
+        <file>cin.jpg</file>
+        <file>bg.jpg</file>
+        <file>stl.jpg</file>
+        <file>rec.jpg</file>
+        <file>dbg.jpg</file>
+        <file>lbg1.jpg</file>
+        <file>login.png</file>
+        <file>signup.png</file>
+        <file>bgImg.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
